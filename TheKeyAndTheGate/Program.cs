@@ -28,7 +28,7 @@ namespace TheKeyAndTheGate
                 }
                 else
                 {
-                    Raylib.DrawText("You Win", 50, 50, 20, Color.BLACK);
+                    Raylib.DrawText("You Win", 50, 50, 50, Color.BLACK);
                 }
                 Raylib.EndDrawing();
 
